@@ -200,12 +200,12 @@ h3~p{
   }
   /*Trainings*/
   .training{
-      background-image: linear-gradient(to right bottom, #fcad67, #c1844f, #895d38, #553922, #26180b);
+       background-image: linear-gradient(to right bottom, #fcad67, #d58e4f, #af7038, #8a5322, #67380c);
   }
   /*Work Experience
   -----------------*/
   .work{
-    background-image: linear-gradient(to right bottom, #fcad67, #c1844f, #895d38, #553922, #26180b);
+     background-image: linear-gradient(to right bottom, #fcad67, #d58e4f, #af7038, #8a5322, #67380c);
   }
   /*Position of Responsibilities*/
   .por{
